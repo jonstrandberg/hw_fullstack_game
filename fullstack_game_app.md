@@ -4,5 +4,5 @@
 4.	Responsible for finding the routes. So at this URL run this functiona and do this thing...
 5.	Requests – which deals with deleting, creating etc, functions to make a change to data. 
 6. This is reflected within a fetch as default is always a get, so therefore if you don’t want a get you have to specify if you want a post with header, body, method and path. 
-7.	The localhost:9000/ As this is the route which all others are routed by. 
+7.	The localhost:9000/ As this is the route which all others are routed by. BaseURL. Restful routes.
 8.	The MongoDB driver is the method by which the server and MongoDB client communicate as far as I can tell.  
